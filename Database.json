@@ -1,0 +1,69 @@
+{
+    "passengers": [
+        {
+            "pnr": "1234",
+            "name": "Soumik",
+			"flight": "P E T 7 7 1",
+			"etd": "20:15",
+			"seat": "4A",
+			"gate": "22A",
+			"date": "05/03/2017",
+			"from": "Delhi",
+			"to": "Bangalore",
+			"phone": "9164172745",
+			"email": "soumik.ece.nitmas@gmail.com",
+			"son_dob": ""
+        },
+        {
+            "pnr": "5678",
+            "name": "Bala",
+			"flight": "P E T 7 7 1",
+			"etd": "09:50",
+			"seat": "29A",
+			"gate": "20C",
+			"date": "05/03/2017",
+			"from": "Kolkata",
+			"to": "Bangalore",
+			"phone": "9164172745",
+			"email": "soumik.ece.nitmas@gmail.com",
+			"son_dob": "near"
+        },
+		{
+            "pnr": "7890",
+            "name": "Samuel",
+			"flight": "P E T 7 7 1",
+			"etd": "08:20",
+			"seat": "",
+			"gate": "20A",
+			"date": "05/03/2017",
+			"from": "Mumbai",
+			"to": "Bangalore",
+			"phone": "8892658615",
+			"email": "Soumik.Dutta@mphasis.com",
+			"son_dob": "near"
+        }
+    ],
+    "others": [
+			 
+		{
+        "gate": "25D",
+		"coffee": "Starbucks",
+		"coffee_dir": "left",
+		"coffee_dis": "30m"
+		
+		},
+		{
+        "gate": "22A",
+		"coffee": "Pete's tea and coffee",
+		"coffee_dir": "right",
+		"coffee_dis": "50m"
+		},
+		{
+        "gate": "20C",
+		"coffee": "Cafe Coffee Day",
+		"coffee_dir": "left",
+		"coffee_dis": "70m"
+		}
+	]
+    
+}
